@@ -141,7 +141,7 @@ export default function App() {
           <HTMLContent
             domContent={domContent}
             bgColor='#571ec1'
-            modelPath='/armchairGray.gltf'
+            modelPath='/scene.gltf'
             position={-500}>
             <span>One decision</span>
             <span>away</span>
