@@ -8,7 +8,7 @@ export default function Header() {
         <nav>
           <ul className='right-nav'>
             <li className='btn'>
-              <a href='/'>Chat now</a>
+              <a href='/'>Chat</a>
             </li>
           </ul>
         </nav>

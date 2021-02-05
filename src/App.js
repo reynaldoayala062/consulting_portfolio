@@ -64,7 +64,7 @@ const HTMLContent = ({
   return (
     <Section factor={1.5} offset={1}>
       <group position={[0, position, 0]}>
-        <mesh ref={ref} position={[0, -35, 10]}>
+        <mesh ref={ref} position={[0, -35, 0]}>
           <Model url={modelPath} />
         </mesh>
         <Html fullscreen portal={domContent}>
